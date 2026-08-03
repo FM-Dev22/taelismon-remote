@@ -1,0 +1,2156 @@
+{
+  "version": "1.0.0",
+  "minecraft": "1.21.1",
+  "fabricLoader": "0.16.14",
+  "files": [
+    {
+      "path": "mods/accessories-fabric-1.1.0-beta.52+1.21.1.jar",
+      "hash": "sha256:a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar",
+      "size": 1095894,
+      "type": "mod"
+    },
+    {
+      "path": "mods/accessories_compat_layer-fabric-0.1.10+1.21.1.jar",
+      "hash": "sha256:ea2bdfe9a0f7df48984734e4e247099bcf7d91600ed5928c4ff65dcc40beaccf",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/accessories_compat_layer-fabric-0.1.10%2B1.21.1.jar",
+      "size": 381101,
+      "type": "mod"
+    },
+    {
+      "path": "mods/advancementdisable-fabric-1.0.1+1.21.jar",
+      "hash": "sha256:53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/advancementdisable-fabric-1.0.1%2B1.21.jar",
+      "size": 430411,
+      "type": "mod"
+    },
+    {
+      "path": "mods/AioStructures-4.8.0.jar",
+      "hash": "sha256:465a795d1e464e19291cf8a09e4b2e75dcabb9f312a38f08f215fd5b48069a2a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/AioStructures-4.8.0.jar",
+      "size": 413914,
+      "type": "mod"
+    },
+    {
+      "path": "mods/alcocraftplus-1.21.1-2.1.0-fabric.jar",
+      "hash": "sha256:530c8141c124624f70ff880c6657a490102cb2b25335323ae949aed46e2ecb92",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/alcocraftplus-1.21.1-2.1.0-fabric.jar",
+      "size": 283741,
+      "type": "mod"
+    },
+    {
+      "path": "mods/architectury-13.0.8-fabric.jar",
+      "hash": "sha256:10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/architectury-13.0.8-fabric.jar",
+      "size": 600915,
+      "type": "mod"
+    },
+    {
+      "path": "mods/armorrack-1.3.2+mc1.21.1.jar",
+      "hash": "sha256:11a77e4ab5fee8efa6c32d796047e68f48b94e92f108fb365788d0dc4e8426d5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/armorrack-1.3.2%2Bmc1.21.1.jar",
+      "size": 46891,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ArmorTrimItemFix-fabric-1.21.1-1.2.0.jar",
+      "hash": "sha256:aa234695a5a24c9eff8e09be351188cd64e79f029a55f6161a1998e4f3d0b741",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ArmorTrimItemFix-fabric-1.21.1-1.2.0.jar",
+      "size": 3368433,
+      "type": "mod"
+    },
+    {
+      "path": "mods/athena-fabric-1.21-4.0.2.jar",
+      "hash": "sha256:998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/athena-fabric-1.21-4.0.2.jar",
+      "size": 82788,
+      "type": "mod"
+    },
+    {
+      "path": "mods/badgebox-fabric-1.3.0.jar",
+      "hash": "sha256:1c9a964eab0ed773842569d5de6d9e4b8c1aef4f99d672770290c191f33858a6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/badgebox-fabric-1.3.0.jar",
+      "size": 74534,
+      "type": "mod"
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "hash": "sha256:22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/BadOptimizations-2.4.1-1.21.1.jar",
+      "size": 283566,
+      "type": "mod"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.55.jar",
+      "hash": "sha256:58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/balm-fabric-1.21.1-21.0.55.jar",
+      "size": 763363,
+      "type": "mod"
+    },
+    {
+      "path": "mods/beautify-1.3.0+1.21.1.jar",
+      "hash": "sha256:147418a19d461dd15f6c6d933a82f642289f3c390d1b17a30166c0b127022e20",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/beautify-1.3.0%2B1.21.1.jar",
+      "size": 836013,
+      "type": "mod"
+    },
+    {
+      "path": "mods/betterbeds-fabric-1.4.0.jar",
+      "hash": "sha256:d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/betterbeds-fabric-1.4.0.jar",
+      "size": 39918,
+      "type": "mod"
+    },
+    {
+      "path": "mods/BetterF1-Fabric-1.1+1.21.7.jar",
+      "hash": "sha256:abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/BetterF1-Fabric-1.1%2B1.21.7.jar",
+      "size": 22834,
+      "type": "mod"
+    },
+    {
+      "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "hash": "sha256:e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "size": 1810710,
+      "type": "mod"
+    },
+    {
+      "path": "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "hash": "sha256:f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+      "size": 52188,
+      "type": "mod"
+    },
+    {
+      "path": "mods/biomereplacer-2.1-hippo-fabric.jar",
+      "hash": "sha256:ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/biomereplacer-2.1-hippo-fabric.jar",
+      "size": 138694,
+      "type": "mod"
+    },
+    {
+      "path": "mods/bountifulfares-fabric-1.21.1-3.0.7.jar",
+      "hash": "sha256:843f213c07dd99e1cfc1a1492cfd5324e491342192bcbcede095fa0f89b68099",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/bountifulfares-fabric-1.21.1-3.0.7.jar",
+      "size": 4421860,
+      "type": "mod"
+    },
+    {
+      "path": "mods/brb-1.10.0-rc5+1.21.jar",
+      "hash": "sha256:7ddc4761bf5ca59c34703d9586e6edaf6c7a7a3939ed7cdb6c103ab9fec6707b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/brb-1.10.0-rc5%2B1.21.jar",
+      "size": 1213168,
+      "type": "mod"
+    },
+    {
+      "path": "mods/capturexp-fabric-1.7.1-1.3.0.jar",
+      "hash": "sha256:658b0ecaa45aaf2338e7797447667248076746b2407595b6b0031a1b1a5d3a3b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/capturexp-fabric-1.7.1-1.3.0.jar",
+      "size": 22847,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cardinal-components-api-6.1.3.jar",
+      "hash": "sha256:302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cardinal-components-api-6.1.3.jar",
+      "size": 229645,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Carved Wood-fabric-1.21.1-1.7.7.jar",
+      "hash": "sha256:bc21e3f4bb36aab0819e0d87db50e23b9cc31023b1bdd69ceccafb2c8d986941",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Carved%20Wood-fabric-1.21.1-1.7.7.jar",
+      "size": 2394672,
+      "type": "mod"
+    },
+    {
+      "path": "mods/casinorocket-1.0.0.jar",
+      "hash": "sha256:c54e6fefc9210dd3bd31c535acfcfa6aba5df06bf50a79f573be2ff2a5d09b65",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/casinorocket-1.0.0.jar",
+      "size": 6878039,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cbmn-fierce-beta5.jar",
+      "hash": "sha256:c43dcef3270d15d0dfd0177a8b6093d7ef09fd77e1443f21f79a4c85137c48c8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cbmn-fierce-beta5.jar",
+      "size": 839661,
+      "type": "mod"
+    },
+    {
+      "path": "mods/chipped-fabric-1.21.1-4.0.2.jar",
+      "hash": "sha256:1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/chipped-fabric-1.21.1-4.0.2.jar",
+      "size": 15016830,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Chunky-Fabric-1.4.23.jar",
+      "hash": "sha256:3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Chunky-Fabric-1.4.23.jar",
+      "size": 342979,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "hash": "sha256:33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cloth-config-15.0.140-fabric.jar",
+      "size": 1157166,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobble-caf-forms-5.0.0.jar",
+      "hash": "sha256:86197dd0c761643facb377263b4e5fff265e7c7ada1e0c4e271975a0f4bf72d5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobble-caf-forms-5.0.0.jar",
+      "size": 2884487,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblecuisine-2.0.1-1.7.rc1.jar",
+      "hash": "sha256:081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblecuisine-2.0.1-1.7.rc1.jar",
+      "size": 683115,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobbledgacha-fabric-1.21.1-2.1.1.jar",
+      "hash": "sha256:85b052b912032fdc07a34cb7d1ceda91d851679b181be70859c462a7aa732823",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobbledgacha-fabric-1.21.1-2.1.1.jar",
+      "size": 613541,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+      "hash": "sha256:5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar",
+      "size": 369528,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobbleFurnies-fabric-1.0.jar",
+      "hash": "sha256:8d96608dc90c0c7d933ed0c1fa4159a30580edf550cc8c8ea2b42bfbde7bfd81",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobbleFurnies-fabric-1.0.jar",
+      "size": 2319618,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-additions-4.1.6.jar",
+      "hash": "sha256:c40eeee13943aa3b2ed532a25de5b55f5db4c76222e2a61c98d0bc35c028357d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-additions-4.1.6.jar",
+      "size": 1961229,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-cards-1.0.0.jar",
+      "hash": "sha256:1ecf4387971c3f36d1b94f9cbb396fece364714f526ae082b2dbac1efacfa667",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-cards-1.0.0.jar",
+      "size": 25773913,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Cobblemon-fabric-1.7.1+1.21.1.jar",
+      "hash": "sha256:fadbf7d683f273e93c673ca6195d3c1d8aac96937a7a815124c434a921fe71b1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon-fabric-1.7.1%2B1.21.1.jar",
+      "size": 130797814,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-journey-mounts.jar",
+      "hash": "sha256:da7d050e1c2e64e238ce0f27508f33fb1453974d42927b7fd0b93d9e4c55f72a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-journey-mounts.jar",
+      "size": 744035,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-paleontologist-0.2.3-Beta.jar",
+      "hash": "sha256:56096fb6b501235eccd5b81b79c999be4237adb94408471aeb5f96c9c9a079d7",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-paleontologist-0.2.3-Beta.jar",
+      "size": 198786,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-progress-items-4.0.0.jar",
+      "hash": "sha256:fa9a15914b544d68694fcf807058992b40351480da8c35a1658a619de4de7c7e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-progress-items-4.0.0.jar",
+      "size": 95908,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-synchro-machine-1.0.9.jar",
+      "hash": "sha256:0dca88ceb8e7cc453e18dd67e01de57a2bbe8e4f9db3d1d23c9acb736d36f493",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-synchro-machine-1.0.9.jar",
+      "size": 127458,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon-trainer-battle-1.11.6+1.7.1-hotfix.2.jar",
+      "hash": "sha256:b299ea9697192ba8dd931c299563cc380a149e31ebe1079e8b5c9e82c578facb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon-trainer-battle-1.11.6%2B1.7.1-hotfix.2.jar",
+      "size": 12732524,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Cobblemon-UI-Tweaks-1.0.7d.jar",
+      "hash": "sha256:b4b21dee8fb1d9bb979879e96bb62340be207d97aab7bbecd78b454266ad7886",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon-UI-Tweaks-1.0.7d.jar",
+      "size": 64385,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemonalphas-1.4.1.jar",
+      "hash": "sha256:c62be4d3ee441084a51b3cd6d6a40f2fd674f16c2412afbd328b0c50feac30d5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemonalphas-1.4.1.jar",
+      "size": 510732,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemonarmory-1.4.4-fabric-1.21.1.jar",
+      "hash": "sha256:199a06d1c867732a5c0735f76f8ab1973c0363c2ad797e9df2fe7901753ef215",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemonarmory-1.4.4-fabric-1.21.1.jar",
+      "size": 513795,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemonboss-5.0.0-fabric.jar",
+      "hash": "sha256:6a2110e7356282e750f8d22e152e9142f624a73ecbb37532484fe586d6a9507f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemonboss-5.0.0-fabric.jar",
+      "size": 626845,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemonraiddens-fabric-0.9.1+1.21.1.jar",
+      "hash": "sha256:f575aaa1b1aeffa287b5ee8ba9503ebc9cafe8d4cb80cc0b7ec717abf4c94bac",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemonraiddens-fabric-0.9.1%2B1.21.1.jar",
+      "size": 2605275,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobblemonRepel-1.7-1.4.jar",
+      "hash": "sha256:4be0da750bc3490e8dcbea9c7d68865051bcf5ffa2dcfc5ce2ce04c358043702",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobblemonRepel-1.7-1.4.jar",
+      "size": 703181,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
+      "hash": "sha256:2bad8880081c07ad2fcb68cca6fb0904e6887fe7286ada759ec0023698ebb8d6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar",
+      "size": 97158,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobblemonTrialsEdition-fabric-1.3.1.jar",
+      "hash": "sha256:35f066a454f5a269fddada938883f2be047622e6ccaaa5fcc823b0a8c98e57fe",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobblemonTrialsEdition-fabric-1.3.1.jar",
+      "size": 239222,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon_battle_tower-fabric-1.10.22.jar",
+      "hash": "sha256:043ee6625cfdb796ee3c0d4210428fb2b93151d38a9fc97a1478488eb1f86f95",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon_battle_tower-fabric-1.10.22.jar",
+      "size": 52072177,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblemon_home-fabric-2.5.9.jar",
+      "hash": "sha256:0a1159ce034e035e1fa70472cf2cf7c58c28c91c3543152dfdc92ef52cdb620b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblemon_home-fabric-2.5.9.jar",
+      "size": 14676008,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblenav-fabric-2.3.3.jar",
+      "hash": "sha256:e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblenav-fabric-2.3.3.jar",
+      "size": 1090821,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cobblestats-fabric-1.7+1.21.1.jar",
+      "hash": "sha256:5baef200e9c6929c43e953ac4b469f4f0db76892125c62cae8305573a1001a5c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cobblestats-fabric-1.7%2B1.21.1.jar",
+      "size": 57550,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobbleThemes-0.9.3-beta.jar",
+      "hash": "sha256:ed6d07317cd630f477aff2fcddcdc2feb43d86c8670746b279afa8c2ad01827c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobbleThemes-0.9.3-beta.jar",
+      "size": 271671502,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CobbleverseBadges-1.3.jar",
+      "hash": "sha256:d215d075d4ae80a4ed5e20cb5caf442bb3f3607d2a41dc134ebad035f6a8da77",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobbleverseBadges-1.3.jar",
+      "size": 137015,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Cobbreeding-fabric-2.1.1.jar",
+      "hash": "sha256:83b6b0b6d3a50887e6f6cb46a05d4fb3c711eb683964c3bb03696ba12c48f063",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobbreeding-fabric-2.1.1.jar",
+      "size": 304580,
+      "type": "mod"
+    },
+    {
+      "path": "mods/collective-1.21.1-8.22.jar",
+      "hash": "sha256:a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/collective-1.21.1-8.22.jar",
+      "size": 943020,
+      "type": "mod"
+    },
+    {
+      "path": "mods/comforts-fabric-9.0.4+1.21.1.jar",
+      "hash": "sha256:f636de45d6acb4c079f3413f071d6663437dad36ae556b771ec58a631b244962",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/comforts-fabric-9.0.4%2B1.21.1.jar",
+      "size": 914358,
+      "type": "mod"
+    },
+    {
+      "path": "mods/connectiblechains-2.5.7+1.21.1.jar",
+      "hash": "sha256:f2b98b471212fbef4d5ec4b3c26bb5b3c6f0a8d0db21f6993831a45a2f917754",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/connectiblechains-2.5.7%2B1.21.1.jar",
+      "size": 537471,
+      "type": "mod"
+    },
+    {
+      "path": "mods/continuity-3.0.0+1.21.jar",
+      "hash": "sha256:99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/continuity-3.0.0%2B1.21.jar",
+      "size": 1014044,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "hash": "sha256:c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Controlling-fabric-1.21.1-19.0.5.jar",
+      "size": 83679,
+      "type": "mod"
+    },
+    {
+      "path": "mods/convenientdecor-0.4.4.jar",
+      "hash": "sha256:1bb67275a5dba18983a1eda117ec9053d4f81c80eac13b3323bb4458b159f850",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/convenientdecor-0.4.4.jar",
+      "size": 732609,
+      "type": "mod"
+    },
+    {
+      "path": "mods/coolrain-1.4.0-1.21.1.jar",
+      "hash": "sha256:6f33ffa4bda06d7ebbd94917c3989020e73440e71880f179e282bbdcd9d3f21a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/coolrain-1.4.0-1.21.1.jar",
+      "size": 4134713,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.disabled",
+      "hash": "sha256:c8fdf6d3407d45e9082ff14f83287c44324aeea3437b6fb70a4114eb8147afe7",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar.disabled",
+      "size": 1247898,
+      "type": "mod"
+    },
+    {
+      "path": "mods/cristellib-fabric-1.21.1-3.0.3.jar",
+      "hash": "sha256:7a970af615b45e99d0d4f5446e6929603a769d6d7a6747aa726ed81019a298cd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/cristellib-fabric-1.21.1-3.0.3.jar",
+      "size": 540121,
+      "type": "mod"
+    },
+    {
+      "path": "mods/CustomPlayerModels-Fabric-1.21-0.6.26a.jar",
+      "hash": "sha256:270a729fff24008fc5289a6a4362d357b7a2a04d3e95fb022c1d71d9b95299ad",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CustomPlayerModels-Fabric-1.21-0.6.26a.jar",
+      "size": 2846201,
+      "type": "mod"
+    },
+    {
+      "path": "mods/customsplashscreen-2.2.0.jar",
+      "hash": "sha256:142aacb23fc97e467ded7e279a72b00252018c43d12d803d928d07d4fe8d8678",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/customsplashscreen-2.2.0.jar",
+      "size": 660554,
+      "type": "mod"
+    },
+    {
+      "path": "mods/custom_nether_portals-fabric-1.21.1-1.0.0.jar",
+      "hash": "sha256:fd73ac5549974b87a99245a81a311882a334239411ea6bcf3713a5d97a9a9308",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/custom_nether_portals-fabric-1.21.1-1.0.0.jar",
+      "size": 45548,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Debugify-1.21.1+1.0.jar",
+      "hash": "sha256:e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Debugify-1.21.1%2B1.0.jar",
+      "size": 292202,
+      "type": "mod"
+    },
+    {
+      "path": "mods/deco_storage-2.0311-beta-1.21.1-fabric.jar",
+      "hash": "sha256:566b5cb1ef3d46a145f221591d1c7a445776ef22bb758bf28dc45b51feea207d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/deco_storage-2.0311-beta-1.21.1-fabric.jar",
+      "size": 75057,
+      "type": "mod"
+    },
+    {
+      "path": "mods/defaultoptions-fabric-1.21.1-21.1.5.jar",
+      "hash": "sha256:51b3c58c56db995e40d2bff33e865b2de31e470a7fe403c1fc4ca98bfeadb53a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/defaultoptions-fabric-1.21.1-21.1.5.jar",
+      "size": 98232,
+      "type": "mod"
+    },
+    {
+      "path": "mods/deltaboxlib-fabric-3.0.1+1.21.1.jar",
+      "hash": "sha256:d70b35c8a8f4afc7e8b4b3ae5927efcf948d4bb313242274867f5c115f8098b9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/deltaboxlib-fabric-3.0.1%2B1.21.1.jar",
+      "size": 914186,
+      "type": "mod"
+    },
+    {
+      "path": "mods/desire-1.1.1-1.21.1.jar",
+      "hash": "sha256:f3a8d3d896154b72b15f49c59a5d1bc1475cbaf0d235fb4ddd17534d21e2d32d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/desire-1.1.1-1.21.1.jar",
+      "size": 1846995,
+      "type": "mod"
+    },
+    {
+      "path": "mods/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "hash": "sha256:9a9f604c29e41bdfcc1706ffd7c93b8dc09862424f390ebb3e4adf0799677b3c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
+      "size": 13104042,
+      "type": "mod"
+    },
+    {
+      "path": "mods/dynamicsurroundings-fabric-1.21.1-0.4.2.jar",
+      "hash": "sha256:ed01b62a6b0cf9bccf34c339cee60b570c5fd3358d3e2edc884e616fe7d414ad",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/dynamicsurroundings-fabric-1.21.1-0.4.2.jar",
+      "size": 16849254,
+      "type": "mod"
+    },
+    {
+      "path": "mods/easy_npc-fabric-1.21.1-6.12.0.jar",
+      "hash": "sha256:ab87e01f3a7297c2db0a323b3d2302e4c28845ec22c72db5d1b5917f33e1abc1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/easy_npc-fabric-1.21.1-6.12.0.jar",
+      "size": 1994790,
+      "type": "mod"
+    },
+    {
+      "path": "mods/easy_npc_bundle-fabric-1.21.1-6.12.0.jar",
+      "hash": "sha256:a9bf0b3a73e1162e2b6f0e888c58315a754ccaf7b2e247d1fb4558438a166519",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/easy_npc_bundle-fabric-1.21.1-6.12.0.jar",
+      "size": 25260,
+      "type": "mod"
+    },
+    {
+      "path": "mods/easy_npc_config_ui-fabric-1.21.1-6.12.0.jar",
+      "hash": "sha256:bbe1a71ceef3d27b38671cdab91296c15b8dac1aafb401672b23ca360da421c1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/easy_npc_config_ui-fabric-1.21.1-6.12.0.jar",
+      "size": 775579,
+      "type": "mod"
+    },
+    {
+      "path": "mods/effecttimerplus-fabric-2.2.7+1.21.jar",
+      "hash": "sha256:eab3bed06c3539f792a19bda0d3909373165cb1a827dfa5ab96f4e801e5e24b8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/effecttimerplus-fabric-2.2.7%2B1.21.jar",
+      "size": 43549,
+      "type": "mod"
+    },
+    {
+      "path": "mods/enderscape-fabric-2.1.0+mc1.21.1.jar",
+      "hash": "sha256:e093ad92aefb3bb17e0df48823228a6077caa6c7788912ee69ad0f2c1ac43097",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/enderscape-fabric-2.1.0%2Bmc1.21.1.jar",
+      "size": 110294237,
+      "type": "mod"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.9.4-mc1.21.1.jar",
+      "hash": "sha256:823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/entityculling-fabric-1.9.4-mc1.21.1.jar",
+      "size": 1559420,
+      "type": "mod"
+    },
+    {
+      "path": "mods/entity_model_features_1.21-fabric-3.0.7.jar",
+      "hash": "sha256:136e5ece2627ac7095778f520865e8027d4e68b14c9a2a25619d5b48a770d76d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/entity_model_features_1.21-fabric-3.0.7.jar",
+      "size": 475401,
+      "type": "mod"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21-fabric-7.0.6.jar",
+      "hash": "sha256:3674b28fa348a94f54f7c7145e9d3fcbc9adde96fc620c11840f6ed097785aa0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/entity_texture_features_1.21-fabric-7.0.6.jar",
+      "size": 754004,
+      "type": "mod"
+    },
+    {
+      "path": "mods/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
+      "hash": "sha256:1eb61ef08f74978153e23e2800725eeca67c7013b33ffdd3ba69908f734746a4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
+      "size": 2310762,
+      "type": "mod"
+    },
+    {
+      "path": "mods/extra-move-anims-cobblemon-1.7v1.0.2.jar",
+      "hash": "sha256:320ad2cf0b905b3d162cb3b6dcda2cdbe18e7bb4ad3874acd1516c78c1a0b2af",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/extra-move-anims-cobblemon-1.7v1.0.2.jar",
+      "size": 584731,
+      "type": "mod"
+    },
+    {
+      "path": "mods/extrasounds-1.5.4+1.21.1-fabric.jar",
+      "hash": "sha256:6d89a0373c5cda2fefee309aa5a7d94f963b11f7bfdf1bfb3757e570dd53e986",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/extrasounds-1.5.4%2B1.21.1-fabric.jar",
+      "size": 372549,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fabric-api-0.116.7+1.21.1.jar",
+      "hash": "sha256:08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fabric-api-0.116.7%2B1.21.1.jar",
+      "size": 2424884,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "hash": "sha256:760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fabric-language-kotlin-1.13.8%2Bkotlin.2.3.0.jar",
+      "size": 7618852,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fairylights-1.1.4+1.21.1_fabric.jar",
+      "hash": "sha256:6a8819ecef6dfb08522593ad6885c8b9b11bd42921d61a83d0ec326e0a4ab937",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fairylights-1.1.4%2B1.21.1_fabric.jar",
+      "size": 753660,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fallingleaves-1.17.1+1.21.1.jar",
+      "hash": "sha256:67e2071d6c25e2638573e6ee91a146b77e38d77edddbb26f45006ab878ebca77",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fallingleaves-1.17.1%2B1.21.1.jar",
+      "size": 170056,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+      "hash": "sha256:32f21b601ce12c7c511752d207a73b077cb19b8e24b0eb3d6e0440a299bc5743",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+      "size": 4522643,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fancytoasts-fabric-1.21.1-1.4.5.1.jar",
+      "hash": "sha256:e5a955c3718d7fdac0f839836bfca3d30f746dc48e4182272b9d7236567a261c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fancytoasts-fabric-1.21.1-1.4.5.1.jar",
+      "size": 250316,
+      "type": "mod"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-3.3.0+refabricated.jar",
+      "hash": "sha256:8258f9afc51ff4c3b6283f200e0c10c5f3d347b843a0579ee9bebfc996ce34a4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/FarmersDelight-1.21.1-3.3.0%2Brefabricated.jar",
+      "size": 3192062,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar",
+      "hash": "sha256:e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ferritecore-7.0.2-hotfix-fabric.jar",
+      "size": 120709,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fightorflight-fabric-0.10.3.jar",
+      "hash": "sha256:4c8c2beb1dbafdb7670b140d1076eb4e1d2b3a510ddfdb12c03c2970243332d6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fightorflight-fabric-0.10.3.jar",
+      "size": 1397311,
+      "type": "mod"
+    },
+    {
+      "path": "mods/figura-0.1.5+1.21.1-fabric-mc.jar",
+      "hash": "sha256:6b83fdee8e9439a4f735139f250ceda0a0a224f15c4ed127cc5b406c9926f665",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/figura-0.1.5%2B1.21.1-fabric-mc.jar",
+      "size": 2504804,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "hash": "sha256:2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "size": 633065,
+      "type": "mod"
+    },
+    {
+      "path": "mods/forgivingvoid-fabric-1.21.1-21.1.5.jar",
+      "hash": "sha256:0f58670d7d5cb9d25fc85fa20ca38349c05d8dbff27a0d891af6d1a94b356e6d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/forgivingvoid-fabric-1.21.1-21.1.5.jar",
+      "size": 76390,
+      "type": "mod"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21.jar",
+      "hash": "sha256:323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/fzzy_config-0.7.6%2B1.21.jar",
+      "size": 2365335,
+      "type": "mod"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.8.2.jar",
+      "hash": "sha256:a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/geckolib-fabric-1.21.1-4.8.2.jar",
+      "size": 652999,
+      "type": "mod"
+    },
+    {
+      "path": "mods/globalpacks-fabric-1.21.1-21.0.6.jar",
+      "hash": "sha256:391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/globalpacks-fabric-1.21.1-21.0.6.jar",
+      "size": 394707,
+      "type": "mod"
+    },
+    {
+      "path": "mods/gwoodworks-1.2.6+1.21.1-fabric.jar",
+      "hash": "sha256:a482004c5575b424dce9151ee9426ee5d0f2bcde0466fc2487a43ae3a38c47fd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/gwoodworks-1.2.6%2B1.21.1-fabric.jar",
+      "size": 791307,
+      "type": "mod"
+    },
+    {
+      "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "hash": "sha256:9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "size": 7127377,
+      "type": "mod"
+    },
+    {
+      "path": "mods/highlight-fabric-1.21-3.0.0.jar",
+      "hash": "sha256:08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/highlight-fabric-1.21-3.0.0.jar",
+      "size": 457352,
+      "type": "mod"
+    },
+    {
+      "path": "mods/huge-structure-blocks-fabric-1.1.6.jar",
+      "hash": "sha256:759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/huge-structure-blocks-fabric-1.1.6.jar",
+      "size": 100230,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+      "hash": "sha256:9214790af6fb75c19ef6b95e0e47999addf018e8c7a1630a5118c4252e6d8d36",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Iceberg-1.21.1-fabric-1.3.2.jar",
+      "size": 413302,
+      "type": "mod"
+    },
+    {
+      "path": "mods/illagerblabber-mc1.21.x-1.0.0.jar",
+      "hash": "sha256:5ccddfc5b0dae82620d578b640aaeb51e452136255a2134cc1203ad1f2e02f0d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/illagerblabber-mc1.21.x-1.0.0.jar",
+      "size": 6216825,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+      "hash": "sha256:edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ImmediatelyFast-Fabric-1.6.9%2B1.21.1.jar",
+      "size": 341961,
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersive-hotbar-1.1.1-1.21-1.21.1.jar",
+      "hash": "sha256:f58d028e9fa1316834e85f9e5dbc43abe96a1af40677d0d6b6d1c7f8290e91d8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/immersive-hotbar-1.1.1-1.21-1.21.1.jar",
+      "size": 219445,
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersivearmorhud-fabric-1.0.1-1.21.1.jar",
+      "hash": "sha256:160185891beafea4be964e72b7012cfc779c7d371cfd7a11707d37a155da7a48",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/immersivearmorhud-fabric-1.0.1-1.21.1.jar",
+      "size": 999331,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ImmersiveThunder-1.21.1+1.2.2.jar",
+      "hash": "sha256:4de4b39b46fd3136ce84dadf1f9cbbafed7aef4a612141fd094d6d845bfd1961",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ImmersiveThunder-1.21.1%2B1.2.2.jar",
+      "size": 3305131,
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersive_armors-1.7.5+1.21.1-fabric.jar",
+      "hash": "sha256:0115d26ed1e54b32a6ea8b37a5af2bab3ea93edc69548e5967ca43f641d79c71",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/immersive_armors-1.7.5%2B1.21.1-fabric.jar",
+      "size": 1260681,
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersive_paintings-fabric-1.21.1-0.7.6.jar",
+      "hash": "sha256:2ade1b7312250dbd05fd3faf7b3515e3ca1740be0ba2fdcf70f58e39658dc696",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/immersive_paintings-fabric-1.21.1-0.7.6.jar",
+      "size": 5363008,
+      "type": "mod"
+    },
+    {
+      "path": "mods/infinite-music-0.4.6.jar",
+      "hash": "sha256:f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/infinite-music-0.4.6.jar",
+      "size": 45913,
+      "type": "mod"
+    },
+    {
+      "path": "mods/interactic-0.2.3+1.21.jar",
+      "hash": "sha256:fad6a5321f0a69c70dcbe62c631166b6549b1d9656929c011e6c1d57b1dea0da",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/interactic-0.2.3%2B1.21.jar",
+      "size": 118011,
+      "type": "mod"
+    },
+    {
+      "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
+      "hash": "sha256:b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+      "size": 2690177,
+      "type": "mod"
+    },
+    {
+      "path": "mods/kiss-a-friend-1.0.0+1.21.jar",
+      "hash": "sha256:9ca434277fb4a2c10da4398424514256c9b31a84ca9b960003d1ea39a612c9f3",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/kiss-a-friend-1.0.0%2B1.21.jar",
+      "size": 190883,
+      "type": "mod"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "hash": "sha256:06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "size": 786695,
+      "type": "mod"
+    },
+    {
+      "path": "mods/krypton-0.2.8.jar",
+      "hash": "sha256:94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/krypton-0.2.8.jar",
+      "size": 161045,
+      "type": "mod"
+    },
+    {
+      "path": "mods/LegendaryMonuments-7.8.jar",
+      "hash": "sha256:5507d1f3f5c9d4afe1db3aac7ae20f88b491daaeb3aa7edc150cca8ad6fefcfc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/LegendaryMonuments-7.8.jar",
+      "size": 14683519,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lenientdeath-1.2.5+1.21.1.jar",
+      "hash": "sha256:117175de6d7a8cc9cf36d48fd55a8460183dd30f4d25c0e7230ba8fe470f79b4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lenientdeath-1.2.5%2B1.21.1.jar",
+      "size": 920915,
+      "type": "mod"
+    },
+    {
+      "path": "mods/libjf-3.17.3.jar",
+      "hash": "sha256:bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/libjf-3.17.3.jar",
+      "size": 1283376,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.1+mc1.21.1.jar",
+      "hash": "sha256:aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
+      "size": 772848,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lithostitched-1.7.2-fabric-21.1.jar",
+      "hash": "sha256:cdc2b3f79641468cf7b4c19cd1ce2d0f71d488bc9a98cad479a98ca08c51bda7",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lithostitched-1.7.2-fabric-21.1.jar",
+      "size": 785445,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+      "hash": "sha256:0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+      "size": 3121070,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lukis-ancient-cities-v1.2.jar",
+      "hash": "sha256:b7ac57ef8f18a46ba2fbac4458450145153a77a28dd2071aba2959dff81ec574",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lukis-ancient-cities-v1.2.jar",
+      "size": 2994979,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lukis-crazy-chambers-1.0.3.jar",
+      "hash": "sha256:3f6b99ba679cb7710cced4cab405597b5692dea345026d3f722a0a7c77566444",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lukis-crazy-chambers-1.0.3.jar",
+      "size": 2185425,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lukis-strongholds-v1.0.jar",
+      "hash": "sha256:2837d1ee9799831c810f1eb4c4c09fdb42d0b9ddfab937c472d64acc9c312148",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lukis-strongholds-v1.0.jar",
+      "size": 917606,
+      "type": "mod"
+    },
+    {
+      "path": "mods/lukis-woodland-mansions-v1.0.jar",
+      "hash": "sha256:61c477cbe76847a204157c92b944438edc610abd91c71aff1ab7e58aca3a1e65",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/lukis-woodland-mansions-v1.0.jar",
+      "size": 1512532,
+      "type": "mod"
+    },
+    {
+      "path": "mods/LumyMon-0.5.5.jar",
+      "hash": "sha256:80ccd9b8127e9309891ef2fce77236b9666133c46ac11d4db29fe8d6484ff85e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/LumyMon-0.5.5.jar",
+      "size": 1263545,
+      "type": "mod"
+    },
+    {
+      "path": "mods/LumyREI-1.0.jar",
+      "hash": "sha256:9247891656b6b460b6ceb25da4fd68e60f150014e448750effa5bbb2368fdfce",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/LumyREI-1.0.jar",
+      "size": 58625,
+      "type": "mod"
+    },
+    {
+      "path": "mods/macu_lib-2.0.2+1.21.1-fabric.jar",
+      "hash": "sha256:db94edbb2e35013c7ddeb8dde8f0924f2e2b721f66919819b703768429773d89",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/macu_lib-2.0.2%2B1.21.1-fabric.jar",
+      "size": 313469,
+      "type": "mod"
+    },
+    {
+      "path": "mods/mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar",
+      "hash": "sha256:e215eb6e2f45aa6016471f9cc905b87d681d636efe8e97e9252b3d4ddd131b3d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/mega_showdown-fabric-1.4.4%2B1.7.1%2B1.21.1.jar",
+      "size": 15865540,
+      "type": "mod"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "hash": "sha256:223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/melody_fabric_1.0.10_MC_1.21.jar",
+      "size": 188035,
+      "type": "mod"
+    },
+    {
+      "path": "mods/midnightlib-1.7.5-fabric+1.21.1.jar",
+      "hash": "sha256:b75155a638d15df61922bb635e2c5aae6102897ccaa1e226060a7f5ff4218091",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/midnightlib-1.7.5-fabric%2B1.21.1.jar",
+      "size": 62853,
+      "type": "mod"
+    },
+    {
+      "path": "mods/MightyRacingMod-fabric1.20.3-1.1.0.jar",
+      "hash": "sha256:4e797557a738910caa2c62ff0f9650938c48ee73342d5f5b1fedf0c77d2571ae",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MightyRacingMod-fabric1.20.3-1.1.0.jar",
+      "size": 68074,
+      "type": "mod"
+    },
+    {
+      "path": "mods/minecart-backport-1.1.0.jar.disabled",
+      "hash": "sha256:ab2df8d499c04490f1751edab038849493a241e05e8cc78ea012383c023e58bd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/minecart-backport-1.1.0.jar.disabled",
+      "size": 62328,
+      "type": "mod"
+    },
+    {
+      "path": "mods/moar-concrete-1.3.1.jar",
+      "hash": "sha256:0e6e7b95b55ca13a50233743ba008a5285f4abf4cca7642bda40b27145f4f43f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/moar-concrete-1.3.1.jar",
+      "size": 777538,
+      "type": "mod"
+    },
+    {
+      "path": "mods/mob-ai-commands-1.0.0.jar",
+      "hash": "sha256:b888f15bc541f41a386bbf2859f176c05007e6eae7a952db36f318d9f2343125",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/mob-ai-commands-1.0.0.jar",
+      "size": 53603,
+      "type": "mod"
+    },
+    {
+      "path": "mods/MobsBeGone-0.0.7.jar",
+      "hash": "sha256:ad45c9c1bfe8c018d372f9fb6eb3e95507d6252b6cb4204478d04653d9634e98",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MobsBeGone-0.0.7.jar",
+      "size": 9837,
+      "type": "mod"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "hash": "sha256:3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "size": 471258,
+      "type": "mod"
+    },
+    {
+      "path": "mods/modmenu-11.0.3.jar",
+      "hash": "sha256:a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/modmenu-11.0.3.jar",
+      "size": 973066,
+      "type": "mod"
+    },
+    {
+      "path": "mods/moonlight-1.21-2.29.33-fabric.jar",
+      "hash": "sha256:3f83845a23e51b0ab98d3b49e33f820f7f545a5240d8dc48a37ad4d2f63dde59",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/moonlight-1.21-2.29.33-fabric.jar",
+      "size": 1607319,
+      "type": "mod"
+    },
+    {
+      "path": "mods/MoreCobblemonTweaks-fabric-1.2.1.jar",
+      "hash": "sha256:1100cf4e109866410e6d444dc325783873b3ebe136e8771df2b7296256ece0a3",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MoreCobblemonTweaks-fabric-1.2.1.jar",
+      "size": 98177,
+      "type": "mod"
+    },
+    {
+      "path": "mods/moreculling-fabric-1.21.1-1.0.6.jar",
+      "hash": "sha256:b7cf4b2d005682b2e1999c0a6fae868b1ddf941aa08efb0ef79baa71acf8bb3a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/moreculling-fabric-1.21.1-1.0.6.jar",
+      "size": 345544,
+      "type": "mod"
+    },
+    {
+      "path": "mods/moredelight-25.07.28-1.21-fabric.jar",
+      "hash": "sha256:338053ad350fc0c533842a3c315f5cb1e8b0b105ed0dc649cd17de4a00bfa2a7",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/moredelight-25.07.28-1.21-fabric.jar",
+      "size": 146946,
+      "type": "mod"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "hash": "sha256:3e9fa4800fafef616fbf1545d62f5898f55c83fbd4126ce2b48b5e0077243fc0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "size": 75984,
+      "type": "mod"
+    },
+    {
+      "path": "mods/MusicNotification-fabric-mc1.21-2.1.0.jar",
+      "hash": "sha256:d1c6627ae41bee82a624fd1eb70c1cd304daec6fbceb269e7292b4523bfde254",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MusicNotification-fabric-mc1.21-2.1.0.jar",
+      "size": 117260,
+      "type": "mod"
+    },
+    {
+      "path": "mods/mythicupgrades-4.2.0+mc1.21.jar",
+      "hash": "sha256:d7256716a23e933e8f0ed150a9bedd53bdd7b9f778d7257bc4df0e25e5179bc0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/mythicupgrades-4.2.0%2Bmc1.21.jar",
+      "size": 1381356,
+      "type": "mod"
+    },
+    {
+      "path": "mods/nethermap-4.0.0-1.21.1.jar",
+      "hash": "sha256:5d5243434984d64c904d21397530f2c7817105ca091bf409aa23f3842b9f3634",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/nethermap-4.0.0-1.21.1.jar",
+      "size": 21464,
+      "type": "mod"
+    },
+    {
+      "path": "mods/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "hash": "sha256:c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/netherportalfix-fabric-1.21.1-21.1.3.jar",
+      "size": 213294,
+      "type": "mod"
+    },
+    {
+      "path": "mods/neuromon-fabric-1.0.0.jar",
+      "hash": "sha256:f48d8c2aa72ca33e4f0a0f39f8bb3ed7c2bd9115e0779cf08063e16352a6ec07",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/neuromon-fabric-1.0.0.jar",
+      "size": 15756630,
+      "type": "mod"
+    },
+    {
+      "path": "mods/nexuslib-fabric-1.21.1-1.1.4.jar",
+      "hash": "sha256:8a58dc2a60ae4585da3cd1b875873bdb3f4a4bfbade900dff134aa4419e951b8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/nexuslib-fabric-1.21.1-1.1.4.jar",
+      "size": 110414,
+      "type": "mod"
+    },
+    {
+      "path": "mods/niftycarts-21.1.1.jar",
+      "hash": "sha256:ed999ceca5abd949d7bcc00baa83e270440f4e56c778e404c0686900d20d9ae2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/niftycarts-21.1.1.jar",
+      "size": 621307,
+      "type": "mod"
+    },
+    {
+      "path": "mods/noisium-fabric-2.7.0+mc1.21-1.21.1.jar",
+      "hash": "sha256:d7e471aae3fc221f3fc31104b996b2b6f2dd592a5a9c79da4a8ef310efbea315",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/noisium-fabric-2.7.0%2Bmc1.21-1.21.1.jar",
+      "size": 216393,
+      "type": "mod"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+      "hash": "sha256:6055d9bd5a37ceaa8df80e9cb9f79a406dfcbca6f059e8a36785f2a7bf463b0e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
+      "size": 1923320,
+      "type": "mod"
+    },
+    {
+      "path": "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar",
+      "hash": "sha256:1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar",
+      "size": 601087,
+      "type": "mod"
+    },
+    {
+      "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
+      "hash": "sha256:73dc2af050c46a1501421593296570ec6dcb3824927fbff9c44ac032e5548da5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+      "size": 543254,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Only Bottle Caps-1.3.0.jar",
+      "hash": "sha256:f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Only%20Bottle%20Caps-1.3.0.jar",
+      "size": 250451,
+      "type": "mod"
+    },
+    {
+      "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+      "hash": "sha256:825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/owo-lib-0.12.15.4%2B1.21.jar",
+      "size": 1183559,
+      "type": "mod"
+    },
+    {
+      "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "hash": "sha256:2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "size": 46623,
+      "type": "mod"
+    },
+    {
+      "path": "mods/paginatedadvancements-2.5.1.jar",
+      "hash": "sha256:776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/paginatedadvancements-2.5.1.jar",
+      "size": 71859,
+      "type": "mod"
+    },
+    {
+      "path": "mods/palegardenbackport-fabric-3.0.1+1.21.1.jar",
+      "hash": "sha256:146f253a47f2be43f8c0cccaab3c4b32face49db93103e898cdeb07d524c5da0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/palegardenbackport-fabric-3.0.1%2B1.21.1.jar",
+      "size": 2358745,
+      "type": "mod"
+    },
+    {
+      "path": "mods/particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
+      "hash": "sha256:d4a5c1ca224f44098469ab1f3343ef2a7d27a8fc6272a0fb8f92a62b3f3ea272",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/particlerain-4.0.0-beta.3%2B1.21.1-fabric.jar",
+      "size": 591856,
+      "type": "mod"
+    },
+    {
+      "path": "mods/particular-1.1.2+1.21.jar",
+      "hash": "sha256:932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/particular-1.1.2%2B1.21.jar",
+      "size": 240317,
+      "type": "mod"
+    },
+    {
+      "path": "mods/pastureLoot-1.0.3+1.21.1.jar",
+      "hash": "sha256:51f6924d529a3cb663524ad8958ae7eb7279ae329bfcc12a932a32b2771da29c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/pastureLoot-1.0.3%2B1.21.1.jar",
+      "size": 45389,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Perception-FABRIC-0.2.1+1.21.1.jar",
+      "hash": "sha256:4d252c5b511ef348f5df302e2f9bd05e96b74005775a07def1815ed9a0b20835",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Perception-FABRIC-0.2.1%2B1.21.1.jar",
+      "size": 77914,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Ping-Wheel-1.12.0-fabric-1.21.1.jar",
+      "hash": "sha256:165cf279f7664995b7bc59f532c2108c9fa19d9dac925b232a0826f45190f42e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Ping-Wheel-1.12.0-fabric-1.21.1.jar",
+      "size": 151851,
+      "type": "mod"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.2+1.21.jar",
+      "hash": "sha256:c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/placeholder-api-2.4.2%2B1.21.jar",
+      "size": 232325,
+      "type": "mod"
+    },
+    {
+      "path": "mods/playerxp-fabric-1.0.3+1.21.1.jar",
+      "hash": "sha256:d67476f77a97ac34798898a3d63819dc63bcdd94f1c8d2cc0f31545ff25801dd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/playerxp-fabric-1.0.3%2B1.21.1.jar",
+      "size": 6953,
+      "type": "mod"
+    },
+    {
+      "path": "mods/pokeblocks-1.4.0-1.21.1.jar",
+      "hash": "sha256:c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/pokeblocks-1.4.0-1.21.1.jar",
+      "size": 1606467,
+      "type": "mod"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.11.1+1.21.jar",
+      "hash": "sha256:4ec7e5a700b2caa5e0bd736e243f49ed3e8ae6e6af8fd4a4e145875bc3127b90",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/PresenceFootsteps-1.11.1%2B1.21.jar",
+      "size": 5690812,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Rad Gyms [Cobblemon]-0.3.1-stable.jar",
+      "hash": "sha256:ee3414adb85607d098b2399885f1e7abb1d3e67ea8f67de8f24c111df701055a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Rad%20Gyms%20%5BCobblemon%5D-0.3.1-stable.jar",
+      "size": 862308,
+      "type": "mod"
+    },
+    {
+      "path": "mods/rctapi-fabric-1.21.1-0.14.6-beta.jar",
+      "hash": "sha256:60ad5f321e7f1977eba0a4996fd96a581435401a655753fb88d49398ed668d0a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/rctapi-fabric-1.21.1-0.14.6-beta.jar",
+      "size": 221587,
+      "type": "mod"
+    },
+    {
+      "path": "mods/rctmod-fabric-1.21.1-0.17.4-beta.jar",
+      "hash": "sha256:e05240f256c1ce4ecfc8343d8d51d0026ee5a870cad6524f78d7437700a796bc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/rctmod-fabric-1.21.1-0.17.4-beta.jar",
+      "size": 4735029,
+      "type": "mod"
+    },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "hash": "sha256:b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
+      "size": 81067,
+      "type": "mod"
+    },
+    {
+      "path": "mods/repurposed_structures-7.5.17+1.21.1-fabric.jar",
+      "hash": "sha256:9cc35b303d7b6dd0f2c7473eb5cf732b47cfefa7673cc52bcc07a96b28ef0c2c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/repurposed_structures-7.5.17%2B1.21.1-fabric.jar",
+      "size": 8195832,
+      "type": "mod"
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "hash": "sha256:93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/resourcefullib-fabric-1.21-3.0.12.jar",
+      "size": 485586,
+      "type": "mod"
+    },
+    {
+      "path": "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+      "hash": "sha256:5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+      "size": 80827,
+      "type": "mod"
+    },
+    {
+      "path": "mods/respackopts-4.14.0+1.21.1.jar",
+      "hash": "sha256:8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/respackopts-4.14.0%2B1.21.1.jar",
+      "size": 548007,
+      "type": "mod"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-16.0.799-fabric.jar",
+      "hash": "sha256:098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/RoughlyEnoughItems-16.0.799-fabric.jar",
+      "size": 2451799,
+      "type": "mod"
+    },
+    {
+      "path": "mods/rustlingspots-fabric-2.1.1.jar",
+      "hash": "sha256:814e0975b81010d9d3801d0916aeb7b2249794d9b4fd5d338ad9b246f4834de0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/rustlingspots-fabric-2.1.1.jar",
+      "size": 6320424,
+      "type": "mod"
+    },
+    {
+      "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+      "hash": "sha256:41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/SafePastures-1.1.1%2B1.21.1.jar",
+      "size": 16518,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "hash": "sha256:0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Searchables-fabric-1.21.1-1.0.2.jar",
+      "size": 79531,
+      "type": "mod"
+    },
+    {
+      "path": "mods/SimpleTMs-fabric-2.3.3.jar",
+      "hash": "sha256:c5baa07f405433f62218fc3916360d4cda37558d01d493df7a618ac7d78d22c1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/SimpleTMs-fabric-2.3.3.jar",
+      "size": 821382,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+      "hash": "sha256:1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
+      "size": 373661,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "hash": "sha256:e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "size": 1297761,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+      "hash": "sha256:59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
+      "size": 903592,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sootychimneys-fabric-1.3.5.jar",
+      "hash": "sha256:eb86189cc0511decc7c53fac51765bdedf5f33c28138f9927bf3107e07d82140",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sootychimneys-fabric-1.3.5.jar",
+      "size": 166938,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+      "hash": "sha256:2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+      "size": 988478,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "hash": "sha256:3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "size": 2996065,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+      "hash": "sha256:0dbaf1ff069c33a8c4738518d983d1cab0cdca6871a6c7b7dc5727c531eca215",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+      "size": 1670672,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "hash": "sha256:8884ded0f53f97a6cb2fca9ef035947af8c3376a406e0bdaa8309bfe87801799",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "size": 205671,
+      "type": "mod"
+    },
+    {
+      "path": "mods/sounds-be-gone-1.3.5.jar.disabled",
+      "hash": "sha256:073a5ceb36b7ef42527e17739c0229e9a94b3cffeca6a5415ddde46cf074419b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/sounds-be-gone-1.3.5.jar.disabled",
+      "size": 2737338,
+      "type": "mod"
+    },
+    {
+      "path": "mods/spear-backport-fabric-1.8.0-1.21.1.jar",
+      "hash": "sha256:9b6231ba0c2c9eae0e37bba52362f0e73901a3b123cf6bd0c7841e0cc35c84e2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/spear-backport-fabric-1.8.0-1.21.1.jar",
+      "size": 416095,
+      "type": "mod"
+    },
+    {
+      "path": "mods/splinecart-0.3.1+1.21.1.jar",
+      "hash": "sha256:d482ae4660a439ef2af5c9aaa38a3855d375d1d2e15329b5546123ba81d16b11",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/splinecart-0.3.1%2B1.21.1.jar",
+      "size": 117027,
+      "type": "mod"
+    },
+    {
+      "path": "mods/spuds-shops-1.21.1-1.9.0.jar",
+      "hash": "sha256:02af516111fafccea7ff4876e69b8869727ae8443e91becff8155d2bd80fa73f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/spuds-shops-1.21.1-1.9.0.jar",
+      "size": 1037914,
+      "type": "mod"
+    },
+    {
+      "path": "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+      "hash": "sha256:335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar",
+      "size": 321213,
+      "type": "mod"
+    },
+    {
+      "path": "mods/swinginglanterns-1.21.1-1.5.0.jar",
+      "hash": "sha256:81fc65caf9014b8d778c165d168ca827e3926e99516f9d69b338540d87438c89",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/swinginglanterns-1.21.1-1.5.0.jar",
+      "size": 438164,
+      "type": "mod"
+    },
+    {
+      "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+      "hash": "sha256:f87e94a7fa1227711c3f8aea9ffac7a14e0c7be212fe50ddee95d2c6ba723cac",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+      "size": 337990,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.8.jar",
+      "hash": "sha256:00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Terralith_1.21.x_v2.5.8.jar",
+      "size": 3115385,
+      "type": "mod"
+    },
+    {
+      "path": "mods/tetrismc-1.0.9+mc1.21.jar",
+      "hash": "sha256:686dc2ef269b4eeab8e8b856f31a4aa29a5b89119b9044823fddf3f6348eda1c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/tetrismc-1.0.9%2Bmc1.21.jar",
+      "size": 488793,
+      "type": "mod"
+    },
+    {
+      "path": "mods/the_shuffle_cannon-1.0.0+1.21.1.jar",
+      "hash": "sha256:312022d7fb048bdb962e76044bc397d13ffc98d2768e448d64d728d55f4bb8ed",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/the_shuffle_cannon-1.0.0%2B1.21.1.jar",
+      "size": 643111,
+      "type": "mod"
+    },
+    {
+      "path": "mods/timcore-fabric-1.7.1-1.27.0.jar",
+      "hash": "sha256:2513c891326e3464ab192fdc24b0a60e80e8212ced98053221fcd45b9fa55405",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/timcore-fabric-1.7.1-1.27.0.jar",
+      "size": 207417,
+      "type": "mod"
+    },
+    {
+      "path": "mods/tmcraft-1.4.18+1.7.1.jar",
+      "hash": "sha256:386b821ea3b7538b278c280f588751c7125929aff8eb5e94f916960838ea2c40",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/tmcraft-1.4.18%2B1.7.1.jar",
+      "size": 3360581,
+      "type": "mod"
+    },
+    {
+      "path": "mods/tooltipfix-1.1.1-1.20.jar",
+      "hash": "sha256:50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/tooltipfix-1.1.1-1.20.jar",
+      "size": 12432,
+      "type": "mod"
+    },
+    {
+      "path": "mods/treeharvester-1.21.1-9.1.jar",
+      "hash": "sha256:28b26730c92be0ed8d937c2b6cbf5c4bc754ac3fce015bc590d91352361c5f69",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/treeharvester-1.21.1-9.1.jar",
+      "size": 119125,
+      "type": "mod"
+    },
+    {
+      "path": "mods/trimeffects-fabric-mc1.21-2.1.1.jar",
+      "hash": "sha256:02410ec34838685aa22bb4616ab70766c47ccec783a2b9d145ac998071f815f6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/trimeffects-fabric-mc1.21-2.1.1.jar",
+      "size": 40311,
+      "type": "mod"
+    },
+    {
+      "path": "mods/trinkets-3.10.0.jar",
+      "hash": "sha256:349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/trinkets-3.10.0.jar",
+      "size": 272944,
+      "type": "mod"
+    },
+    {
+      "path": "mods/TwilightTeleport-0.1.1+fabric1.21.1.jar",
+      "hash": "sha256:0fee728235f751fde68fdb7725e0756a727928ebb4cb3489df40256956ec30b8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/TwilightTeleport-0.1.1%2Bfabric1.21.1.jar",
+      "size": 170028,
+      "type": "mod"
+    },
+    {
+      "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
+      "hash": "sha256:814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/txnilib-fabric-1.0.24-1.21.1.jar",
+      "size": 1303092,
+      "type": "mod"
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "hash": "sha256:925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/t_and_t-neoforge-fabric-1.13.7%2B1.21.1.jar",
+      "size": 3641681,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Untitled.mp3",
+      "hash": "sha256:c91c7b8392c62952c0047dd1d30af1259c4e47b2635ae5217351cfe443312825",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Untitled.mp3",
+      "size": 3554257,
+      "type": "mod"
+    },
+    {
+      "path": "mods/villagerconfig-fabric-4.5.2+1.21.1.jar",
+      "hash": "sha256:9d0b2c07a123f4a7643c946a30ef4fb5a23fa762735376200c1b9e797652b895",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/villagerconfig-fabric-4.5.2%2B1.21.1.jar",
+      "size": 355221,
+      "type": "mod"
+    },
+    {
+      "path": "mods/vista-1.21-3.1.2-fabric.jar",
+      "hash": "sha256:0b037196d33a2b0aa0b887c76bb2db373cf413bad2cde5eaefee229029332852",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/vista-1.21-3.1.2-fabric.jar",
+      "size": 7024225,
+      "type": "mod"
+    },
+    {
+      "path": "mods/visuality-0.7.7+1.21.jar",
+      "hash": "sha256:c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/visuality-0.7.7%2B1.21.jar",
+      "size": 79452,
+      "type": "mod"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.12.jar",
+      "hash": "sha256:24950f92c4afdcbd39f1421320d9daa2261c074589885a41e88b8944462fc29a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/voicechat-fabric-1.21.1-2.6.12.jar",
+      "size": 5341263,
+      "type": "mod"
+    },
+    {
+      "path": "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar.disabled",
+      "hash": "sha256:7c6a79c48132f74543784dc325895ac8061fe4ff0a8712a08ec8c36516f97844",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/waterframes-FABRIC-mc1.21.1-v2.1.22.jar.disabled",
+      "size": 266292,
+      "type": "mod"
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar.disabled",
+      "hash": "sha256:cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/watermedia-2.1.37.jar.disabled",
+      "size": 37046674,
+      "type": "mod"
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar.disabled",
+      "hash": "sha256:95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/watermedia_youtube_plugin-2.1.2.jar.disabled",
+      "size": 3830072,
+      "type": "mod"
+    },
+    {
+      "path": "mods/waystones-fabric-1.21.1-21.1.25.jar",
+      "hash": "sha256:1225853d2880616a7242cde7c6a1cc4bbea9cebbed4eecc64bf21c533c943cd9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/waystones-fabric-1.21.1-21.1.25.jar",
+      "size": 887695,
+      "type": "mod"
+    },
+    {
+      "path": "mods/wild_battle_api-fabric-1.1.2.jar",
+      "hash": "sha256:c25fee08e90ed8d28d2a0051f892bae28e1d6d8522c523131bd7dcbef9bcd0a8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/wild_battle_api-fabric-1.1.2.jar",
+      "size": 253029,
+      "type": "mod"
+    },
+    {
+      "path": "mods/worldgenfeaturefix-fabric-1.21-1.0.1.jar",
+      "hash": "sha256:6057f0645ad0e38924cd65d70a7699133da4d8728136c1d1ffcf978945c389f1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/worldgenfeaturefix-fabric-1.21-1.0.1.jar",
+      "size": 14376,
+      "type": "mod"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+      "hash": "sha256:91ee2741c352d137a535b5c33eeb19272ffdd44784a9c815243484d293eb9173",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+      "size": 976417,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+      "hash": "sha256:0a4352f406baa851b1c0e1ab85595449c3c277b5abb239e5bb054bacb0a7c525",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+      "size": 1745107,
+      "type": "mod"
+    },
+    {
+      "path": "mods/xercapaint-1.21.1-1.1.1.jar",
+      "hash": "sha256:0ca6081210dac721d4891ee0bf5a427e92726b432696e10472c3002bd06f16fc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/xercapaint-1.21.1-1.1.1.jar",
+      "size": 416854,
+      "type": "mod"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+      "hash": "sha256:413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar",
+      "size": 1131541,
+      "type": "mod"
+    },
+    {
+      "path": "mods/zipline-1.2.1+1.21.1.jar",
+      "hash": "sha256:47dea13e38fc6a1c60a417ff3d6d040287022ac1ce81f31f312c607954edefdb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/zipline-1.2.1%2B1.21.1.jar",
+      "size": 88624,
+      "type": "mod"
+    },
+    {
+      "path": "mods/Zoomify-2.14.6+1.21.1.jar",
+      "hash": "sha256:72815bb68f38560de5f2904560c692421d2fa95e7d9cbd6e65d1c690eaf0c8b0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Zoomify-2.14.6%2B1.21.1.jar",
+      "size": 1866423,
+      "type": "mod"
+    },
+    {
+      "path": "mods/zz DO NOT ENABLE zz [Cobblemon Journey Mounts - Credits Only].jar.disabled",
+      "hash": "sha256:ab3f0319bdd2aba3fe5921c97e75c4871a3e451f8a999f36d32b6b23b8a799bc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/zz%20DO%20NOT%20ENABLE%20zz%20%5BCobblemon%20Journey%20Mounts%20-%20Credits%20Only%5D.jar.disabled",
+      "size": 7085741,
+      "type": "mod"
+    },
+    {
+      "path": "mods/zz DO NOT ENABLE zz [Cobblemon UI Tweaks - Credits Only].jar.disabled",
+      "hash": "sha256:ed107e2486b1e9c0f9fbb4f172f9213faf0b65dcd9320a856391f1d8917626d2",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/zz%20DO%20NOT%20ENABLE%20zz%20%5BCobblemon%20UI%20Tweaks%20-%20Credits%20Only%5D.jar.disabled",
+      "size": 64439,
+      "type": "mod"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8.txt",
+      "hash": "sha256:688861093b2d5d8a97b2e37aa77358076dfd07fec9bc33a741c39338fa6c9540",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ComplementaryUnbound_r5.6.1%20%2B%20EuphoriaPatches_1.7.8.txt",
+      "size": 1289,
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+      "hash": "sha256:1c25b2b917ff6d0a511cf2edd8992e0bc66c950c401020f1b0362646bb3e2952",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ComplementaryUnbound_r5.6.1.zip",
+      "size": 500699,
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Shaders - HIGH QUALITY.txt",
+      "hash": "sha256:dcd67352126aadf7f658d01fea3f1d9154a788599c25864d4613345c5cb55eed",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Shaders%20-%20HIGH%20QUALITY.txt",
+      "size": 1329,
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Shaders - STANDARD.txt",
+      "hash": "sha256:284ed7b0e007ee981414930da63be55171e80bbce2bcd5e917330711faacef38",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Shaders%20-%20STANDARD.txt",
+      "size": 1011,
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Toromon.zip",
+      "hash": "sha256:eab70152d31ba33a53eee417723fb557dcb51c5149fbdc8740835a2c242bbd38",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Toromon.zip",
+      "size": 1928517,
+      "type": "shaderpack"
+    },
+    {
+      "path": "datapacks/CobblemonMoreCosmetics Release v1.1.5-1.21.x.zip",
+      "hash": "sha256:495821d1bc68d62e453c1539f0b0d236c8e0c07cc57c9e7f86bfabe62959aaa1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobblemonMoreCosmetics%20Release%20v1.1.5-1.21.x.zip",
+      "size": 2245944,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE - No Ender Dragon.zip",
+      "hash": "sha256:f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE%20-%20No%20Ender%20Dragon.zip",
+      "size": 9062,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-DP-v26.zip",
+      "hash": "sha256:13a06b437d9b5249895afc872e6b2f25a7f8ad39f984f858fc133003c2072107",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE-DP-v26.zip",
+      "size": 2816215,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-Loot-DP-v8.zip",
+      "hash": "sha256:230e66340b69f205cd4b405ab047b0d220d76718cc65c85fca7e20a387b15b99",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE-Loot-DP-v8.zip",
+      "size": 127572,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/COBBLEVERSE-RCT-DP-v16.zip",
+      "hash": "sha256:35007459cb2ebfc362fb2234b00e1a073ed618f5412a4ed9916b4874d55ab737",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE-RCT-DP-v16.zip",
+      "size": 337635,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/Doctors-SpeedBoosts-DP-v4.zip",
+      "hash": "sha256:2d86bb164d12409d1c1ff00e26d56fb4ffdf3ad07c83674efe6a0d57e21643ab",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Doctors-SpeedBoosts-DP-v4.zip",
+      "size": 74925,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/NetheriteInstantMining-1.1.0.zip",
+      "hash": "sha256:dabbd3eb1a46b83422c4aadb13f123e42e6ef7a251fbcb084069906bfe697e19",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/NetheriteInstantMining-1.1.0.zip",
+      "size": 7967,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/PokeCenterPCs-DP.zip",
+      "hash": "sha256:e462e091ef376595c5b0efab2615fe0463b93b4c54e462cc841749a90ecefe31",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/PokeCenterPCs-DP.zip",
+      "size": 386543,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/PokéGals [v1.0].zip",
+      "hash": "sha256:36f6d67065fc19f136340ff82b2c080a3316e17729e7e239a14dded34fa52adb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Pok%C3%A9Gals%20%5Bv1.0%5D.zip",
+      "size": 34553,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/Radiants 1.3.zip",
+      "hash": "sha256:111fa05b14fe6a760453b8d93c94758b408097f4d99d0bee76cd04ad341d92ef",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Radiants%201.3.zip",
+      "size": 2655733,
+      "type": "datapack"
+    },
+    {
+      "path": "datapacks/Z-A-Mega-DP.zip",
+      "hash": "sha256:51e23c4bf02634fb963d9950f69d96d9bc35bfc13a18a249dc624ae66a61993c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Z-A-Mega-DP.zip",
+      "size": 93945,
+      "type": "datapack"
+    },
+    {
+      "path": "resourcepacks/ATMxMSD RP.zip",
+      "hash": "sha256:41a2ce18e1a62a57a231c9b4f9cbcedf3afb6ee176064fc5d3e7ecdf61af8daa",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/ATMxMSD%20RP.zip",
+      "size": 4736207,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Brewing Guide 1.21.1 to 1.21.4.zip",
+      "hash": "sha256:1d60ee8ce9f55097d724574baf3b54735039a79f3c0e7fd5145eb895b4aa69e5",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Brewing%20Guide%201.21.1%20to%201.21.4.zip",
+      "size": 54172,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Canon PC Wallpapers.zip",
+      "hash": "sha256:c20da2ec31a91c3a961ba0b6fd771a405b7197001af592d5955750568d017d2c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Canon%20PC%20Wallpapers.zip",
+      "size": 1423022,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/CavsCobbleMons RP.zip",
+      "hash": "sha256:928769709051383c807a419f4070ed5769db98b9de91a7421ae366ea1bf457ae",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CavsCobbleMons%20RP.zip",
+      "size": 291041,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Classic Grass.zip",
+      "hash": "sha256:4386b800db3f7710c23f5ead9c911c9f265831a02e74c704f7cc29fcd9070880",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Classic%20Grass.zip",
+      "size": 7418,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface Modded.zip",
+      "hash": "sha256:3175cde27f4528eb7c2dc6a53b9952d937e0d1ead2b2f0fdbf1809075e9eb7eb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon%20Interface%20Modded.zip",
+      "size": 1053517,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface Modded.zip.rpo",
+      "hash": "sha256:44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon%20Interface%20Modded.zip.rpo",
+      "size": 2,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface.zip",
+      "hash": "sha256:eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon%20Interface.zip",
+      "size": 14108266,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface.zip.rpo",
+      "hash": "sha256:48ed3088619436dadb0683c59d196714d8f3d9388ff37b23f01c5f93b40d8091",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Cobblemon%20Interface.zip.rpo",
+      "size": 77,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/CobbleNostalgia v1.0_HP_Bar.zip",
+      "hash": "sha256:652f53a8d23b33e662f41cf67dbe0d22dcb165d5373a7edd37ab349605a68c2c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/CobbleNostalgia%20v1.0_HP_Bar.zip",
+      "size": 16273621,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/COBBLEVERSE RCTmod RP.zip",
+      "hash": "sha256:2c7f6d705e133c3196b8d5050f6e2707954d83fb7b6e943b4aaee932cae418df",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE%20RCTmod%20RP.zip",
+      "size": 5128414,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/COBBLEVERSE RP.zip",
+      "hash": "sha256:37157b8279e9fd42721ad09f45d14e2b34d956410032807a0cb13a9542ceaf77",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE%20RP.zip",
+      "size": 1350592,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/COBBLEVERSE Soundtrack.zip",
+      "hash": "sha256:4fa1a3abd5b43fbf9cec1c778a3821ed7c28e75c3c9c737361e76199fdc2c012",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/COBBLEVERSE%20Soundtrack.zip",
+      "size": 96474458,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Comforts Modernized.zip",
+      "hash": "sha256:b3050d84c0be41dae853e550c07acb1f768880c41472b44d701c03e9b1bc4734",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Comforts%20Modernized.zip",
+      "size": 72956,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
+      "hash": "sha256:99d4938c00c0e650e75f3e953d0f0efbdb90153b1ed159f676dfcb935e1618b8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/E19%20Cobblemon%20Minimap%20Icons.zip",
+      "size": 6102390,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/EeveelutionsReimagined RP.zip",
+      "hash": "sha256:0280c5f64b617705ed4d49a915f1106babcd985932e70b5f0c988cc371da62bc",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/EeveelutionsReimagined%20RP.zip",
+      "size": 315069,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Emissive Cobblemon Ores.zip",
+      "hash": "sha256:1dfdfb226712ef47e28917642711972837af5c5e706e7ca6be0c8298a5b0bcd4",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Emissive%20Cobblemon%20Ores.zip",
+      "size": 803304,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FA+Player-v1.0.zip",
+      "hash": "sha256:b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/FA%2BPlayer-v1.0.zip",
+      "size": 124472,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Fresh Animations.zip",
+      "hash": "sha256:999fbdfe9cddcbadeaaa02827f0583dc3d38d8f264146301cb88395d18df85a9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Fresh%20Animations.zip",
+      "size": 855766,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Fresh Icons.zip",
+      "hash": "sha256:4df876dd775c214e66cb29d9706636025e6f808bff50431abf08cb815c2af255",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Fresh%20Icons.zip",
+      "size": 852235,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Fresh Moves.zip.disabled",
+      "hash": "sha256:c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Fresh%20Moves.zip.disabled",
+      "size": 321871,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FullyHisuianStarters RP.zip",
+      "hash": "sha256:e1b031cc8d05305d0607919124b7a14fd244a98d8160c3eaa30b38bd817eec23",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/FullyHisuianStarters%20RP.zip",
+      "size": 198592,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/GlitchDex RP.zip",
+      "hash": "sha256:45141851744fb63075f58bcfd8671e9f53d36bcc2c8300b56686b7e7cfd133cf",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/GlitchDex%20RP.zip",
+      "size": 196701,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Hold My Pokeballs+1.21.1.zip",
+      "hash": "sha256:1684138dc3046f7213a4c0e3871d7bbbbd22c8c140a352945df7beff801a3e0b",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Hold%20My%20Pokeballs%2B1.21.1.zip",
+      "size": 1951896,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/HydroReanimodel RP.zip",
+      "hash": "sha256:3e2736c8f71acc5f7bbea733912814aea760b8601e0dcb5c8168c43871767ca8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/HydroReanimodel%20RP.zip",
+      "size": 821133,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/JigglyRadio.zip",
+      "hash": "sha256:b766be373fa546f0671e064263f78710943b2ec8a341fe1e2c41075d11b86700",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/JigglyRadio.zip",
+      "size": 124240613,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/LackingMons RP.zip",
+      "hash": "sha256:6e7a9a07464b01c4f748e38dfe735e09ee4874cc82898e09af8b1d8397dac1a9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/LackingMons%20RP.zip",
+      "size": 51067,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Low Fire.zip",
+      "hash": "sha256:fd19a6e94de111070e92a908b4215b79fd73ba2003bb5f3f734ac944a5a4a9d9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Low%20Fire.zip",
+      "size": 41745,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/MelloMons RP.zip",
+      "hash": "sha256:e586ee25a3c029048ced4343f0b0f3e1854453bad58259bf50cbcb064f9f6ab6",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MelloMons%20RP.zip",
+      "size": 31681,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/MissingMons RP.zip",
+      "hash": "sha256:f22618ff2cd75ed8474b9a66e0f330be5f4a9d3c6abf8a6f86ff0e82725610fe",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MissingMons%20RP.zip",
+      "size": 303476,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/MundialMons RP.zip",
+      "hash": "sha256:7abedc89e45eaf73bddc8ce738500742325bfb6bf1defc6ed2d3c2868ab8f17a",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MundialMons%20RP.zip",
+      "size": 1039775,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/MysticMons RP.zip",
+      "hash": "sha256:7f252d781e4da48be900a5bc558ded0718e001ce22878394b65a07d5dd8519dd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/MysticMons%20RP.zip",
+      "size": 81622,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Navas-Z-A-Mega RP.zip",
+      "hash": "sha256:f2e37811da63802bf980a7bfd69ecd21fc05780c492b846f8544de4f1b608106",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Navas-Z-A-Mega%20RP.zip",
+      "size": 1331223,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Nuevos Pillagers.zip",
+      "hash": "sha256:6d45ad20285c37870fa7045d81d506d169c6e55f33750380ffef976a576ddf68",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Nuevos%20Pillagers.zip",
+      "size": 7882,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/OJsAnimations RP.zip",
+      "hash": "sha256:0772eab3fb332cb62b052a1f84451d562bde847ddd87a7a3ca874d2ef36a2512",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/OJsAnimations%20RP.zip",
+      "size": 88853,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Original Pokemon Battle Music.zip",
+      "hash": "sha256:73dbf078974cd81e5356f98d0b57b5b88c1dfed9aebbbddbfbcf8a3bc3600bb8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Original%20Pokemon%20Battle%20Music.zip",
+      "size": 93138424,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/pack.mcmeta",
+      "hash": "sha256:960d650fa4f4f551f7285c05c77781999f503f41a49d6d3d6aedea047c02c857",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/pack.mcmeta",
+      "size": 177,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/pack.png",
+      "hash": "sha256:22c2e8c2358322d34941d1c6df6f6155c423ac3cb5183535a2daef5197674557",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/pack.png",
+      "size": 1051,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/PlanetaCobblemon RP.zip",
+      "hash": "sha256:139d3060983eead8e91a166d97fcc690b39f8ae5480edc20282b401aeccd0f55",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/PlanetaCobblemon%20RP.zip",
+      "size": 138557,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/PokeDiscs.zip",
+      "hash": "sha256:f90d7b3a1c5885a5c48aac3820d57033cd628e720bd9bc90481efe2ed01165d3",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/PokeDiscs.zip",
+      "size": 24912925,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Pokemans RP.zip",
+      "hash": "sha256:9ac5067e8acccba49feafd974795b92ed65eb4df899482ed1eea09afe935aef8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Pokemans%20RP.zip",
+      "size": 509805,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/PokeRods3D.zip",
+      "hash": "sha256:c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/PokeRods3D.zip",
+      "size": 167546,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/PokéGals [v1.0].zip",
+      "hash": "sha256:36f6d67065fc19f136340ff82b2c080a3316e17729e7e239a14dded34fa52adb",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Pok%C3%A9Gals%20%5Bv1.0%5D.zip",
+      "size": 34553,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Radiants 1.3.zip",
+      "hash": "sha256:111fa05b14fe6a760453b8d93c94758b408097f4d99d0bee76cd04ad341d92ef",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Radiants%201.3.zip",
+      "size": 2655733,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/Refined Buckets 2.4.1.zip",
+      "hash": "sha256:198748b54fb15bc01883da58aa87da44bd8c15d41fef862613f1adb03bd33637",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/Refined%20Buckets%202.4.1.zip",
+      "size": 1147677,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/SwirlixAndSlurpuff RP.zip",
+      "hash": "sha256:22762cb83a86b2ae7587f96f82abbe11630116bda745a91d6622f71bf749be60",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/SwirlixAndSlurpuff%20RP.zip",
+      "size": 25249,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/TDmon RP.zip",
+      "hash": "sha256:910e64ffb24126578d4a55ce5f015cc761912368f7c260b091ca4e07884a1e57",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/TDmon%20RP.zip",
+      "size": 227765,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
+      "hash": "sha256:00cbf68bae8405201db01d9cbf87707dc3e5ca6d8a92c6962a44b20f1324eec8",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BATM%20x%20MSD%20-%20Credits%20Only%5D.zip",
+      "size": 8186350,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
+      "hash": "sha256:3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BCavsCobbleMons%20-%20Credits%20Only%5D.zip",
+      "size": 427986,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
+      "hash": "sha256:6972c626ecba38d45002a54d9e8f7e22984074a0b2baa824e7b4c18c11e5719c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BE19%20Minimap%20Icons%20-%20Credits%20Only%5D.zip",
+      "size": 15941923,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip",
+      "hash": "sha256:f7dc00ccc2015b70ec07d256f790c241f95b62072f672808a029417815b4aab9",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BGlitchDex%20-%20Credits%20Only%5D.zip",
+      "size": 322813,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
+      "hash": "sha256:0a40b17b33994018e9b6da2fadd4030972397757d5f6fef971c5642a234b1a01",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BHydro%20Reanimodel%20-%20Credits%20Only%5D.zip",
+      "size": 2639423,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip",
+      "hash": "sha256:5aedbb9148dd35363ba738ac137811466aaa1f0d5cabfbd9e0e333cf3cd2b91c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BLackingMons%20-%20Credits%20Only%5D.zip",
+      "size": 5998516,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
+      "hash": "sha256:3f4d898e7a117f761ffa268e9f9af4e8d0ea5340bf3cd58a11e2253538fa9cb0",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BMissingMons%20-%20Credits%20Only%5D.zip",
+      "size": 1943037,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
+      "hash": "sha256:5fa1a0ed27f4a875ba85257af11e712384807c3f4950e97927f8cafacc6b8418",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BMundialMons%20-%20Credits%20Only%5D.zip",
+      "size": 1492100,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip",
+      "hash": "sha256:9e3749f431fbffa6a0fc95d878a166aec15b9aa9066ce88de2419ec9c8232102",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BMysticMons%20-%20Credits%20Only%5D.zip",
+      "size": 1268389,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [Navas Z-A Mega - Credits Only].zip",
+      "hash": "sha256:e68f9dbd8f39c608478fcfa928be91136b8ba890fd595d8a1af9a9c552bb1afd",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BNavas%20Z-A%20Mega%20-%20Credits%20Only%5D.zip",
+      "size": 1438750,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
+      "hash": "sha256:99150e132fc74d78d1e6f58f9593eb677933155e9b56230e7728fcb355d912b1",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BPlanetaCobblemon%20-%20Credits%20Only%5D.zip",
+      "size": 317141,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
+      "hash": "sha256:af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BPokemans%20-%20Credits%20Only%5D.zip",
+      "size": 3826705,
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip",
+      "hash": "sha256:826872b0b2aef5f6aa345a91dd6122ac6a438dae0e5cd8405ecec0eba3758e5c",
+      "url": "https://github.com/tu-usuario-github/taelismon-launcher-repo/releases/download/modpack-v1.0.0/z%20DO%20NOT%20ENABLE%20z%20%5BTDmon%20-%20Credits%20Only%5D.zip",
+      "size": 309380,
+      "type": "resourcepack"
+    }
+  ]
+}
